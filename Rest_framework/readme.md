@@ -1,4 +1,4 @@
-Django REST framework
+Django REST framework (Quick start)
 --
 
 ```
